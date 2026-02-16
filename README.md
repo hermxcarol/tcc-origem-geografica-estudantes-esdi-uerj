@@ -4,31 +4,33 @@ Este repositório reúne as planilhas utilizadas na coleta, organização e aná
 
 ## Conteúdo
 A pasta /dados contém três conjuntos de arquivos:
-  📁 master
-  _esdi_origem_estudantes_master.xlsx_
-  Arquivo completo em formato Excel contendo todas as abas originais utilizadas na organização dos dados.
-  
-  📁 anos
-  Arquivos em formato CSV contendo os registros individuais de estudantes por ano analisado.
-  Cada arquivo inclui:
-  - ano de ingresso
-  - bairro de residência
-  - cidade
+📁 master
+_esdi_origem_estudantes_master.xlsx_
 
-  Exemplo de arquivos:
-  _estudantes_esdi_1963.csv_
-  _estudantes_esdi_1973.csv_
-  _estudantes_esdi_1983.csv_
-  _estudantes_esdi_1993.csv_
-  _estudantes_esdi_2003.csv_
-  _estudantes_esdi_2009.csv_
-  _estudantes_esdi_2014.csv_
-  _estudantes_esdi_2019.csv_
-  _estudantes_esdi_2024.csv_
+Arquivo completo em formato Excel contendo todas as abas originais utilizadas na organização dos dados.
 
-  📁 resumo
-  _resumo_bairros_por_ano.csv_
-  Arquivo agregado contendo a contagem de estudantes por bairro em cada ano analisado e informações adicionais como cidade, latitude e longitude aproximada de cada   local. Este arquivo corresponde à base utilizada para análises comparativas e visualizações do trabalho.
+📁 anos
+Arquivos em formato CSV contendo os registros individuais de estudantes por ano analisado.
+Cada arquivo inclui:
+- ano de ingresso
+- bairro de residência
+- cidade
+
+Exemplo de arquivos:
+_estudantes_esdi_1963.csv_
+_estudantes_esdi_1973.csv_
+_estudantes_esdi_1983.csv_
+_estudantes_esdi_1993.csv_
+_estudantes_esdi_2003.csv_
+_estudantes_esdi_2009.csv_
+_estudantes_esdi_2014.csv_
+_estudantes_esdi_2019.csv_
+_estudantes_esdi_2024.csv_
+
+📁 resumo
+_resumo_bairros_por_ano.csv_
+
+Arquivo agregado contendo a contagem de estudantes por bairro em cada ano analisado e informações adicionais como cidade, latitude e longitude aproximada de cada   local. Este arquivo corresponde à base utilizada para análises comparativas e visualizações do trabalho.
 
 ## Metodologia
 Os dados foram obtidos a partir de duas fontes principais:
