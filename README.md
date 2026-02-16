@@ -18,8 +18,6 @@ A pasta `/dados` contém três conjuntos de arquivos:
 
 Arquivo completo em formato Excel contendo todas as abas originais utilizadas na organização dos dados.
 
----
-
 ### 📁 anos
 
 Arquivos em formato CSV contendo os registros individuais de estudantes por ano analisado.
@@ -28,7 +26,8 @@ Cada arquivo inclui:
 
 - ano de ingresso  
 - bairro de residência  
-- cidade  
+- cidade
+- CEP  
 
 Exemplos:
 
@@ -41,8 +40,6 @@ Exemplos:
 - estudantes_esdi_2014.csv  
 - estudantes_esdi_2019.csv  
 - estudantes_esdi_2024.csv  
-
----
 
 ### 📁 resumo
 
