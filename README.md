@@ -58,14 +58,14 @@ Os dados foram obtidos a partir de duas fontes principais:
 - consulta manual a arquivos físicos institucionais  
 - bases digitais contendo registros de CEP  
 
-Considerando o caráter manual de parte da coleta realizada em arquivos físicos, podem existir inconsistências pontuais de catalogação, sem impacto significativo nas análises agregadas apresentadas na pesquisa.
+Considerando o caráter manual de parte da coleta realizada em arquivos físicos, podem existir inconsistências pontuais de catalogação, sem impacto significativo nas análises apresentadas na pesquisa.
 
 ---
 
 ## ⚠️ Observações
 
 - Os dados não permitem identificação individual dos estudantes.  
-- As informações disponibilizadas destinam-se exclusivamente a fins acadêmicos.  
+- As informações disponibilizadas destinam-se exclusivamente a **fins acadêmicos**.  
 
 ---
 
