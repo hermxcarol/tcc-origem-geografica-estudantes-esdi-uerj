@@ -6,8 +6,6 @@ Este repositório reúne as planilhas utilizadas na coleta, organização e aná
 
 De autoria de **Carolina Guimarães**, sob orientação da **Prof. Barbara Castro**.
 
----
-
 ## Conteúdo
 
 A pasta `/dados` contém três conjuntos de arquivos:
@@ -49,8 +47,6 @@ Arquivo agregado contendo a contagem de estudantes por bairro em cada ano analis
 
 Este arquivo corresponde à base utilizada para análises comparativas e visualizações do trabalho.
 
----
-
 ## Metodologia
 
 Os dados foram obtidos a partir de duas fontes principais:
@@ -60,14 +56,10 @@ Os dados foram obtidos a partir de duas fontes principais:
 
 Considerando o caráter manual de parte da coleta realizada em arquivos físicos, podem existir inconsistências pontuais de catalogação, sem impacto significativo nas análises apresentadas na pesquisa.
 
----
-
 ## ⚠️ Observações
 
 - Os dados não permitem identificação individual dos estudantes.  
 - As informações disponibilizadas destinam-se exclusivamente a **fins acadêmicos**.  
-
----
 
 ## Contato
 
