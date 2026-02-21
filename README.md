@@ -10,15 +10,15 @@ De autoria de **Carolina Guimarães**, sob orientação da **Prof. Barbara Castr
 
 A pasta `/dados` contém três conjuntos de arquivos:
 
-### 📁 master
+### master
 
 **esdi_origem_estudantes_master.xlsx**
 
 Arquivo completo em formato Excel contendo todas as abas originais utilizadas na organização dos dados.
 
-### 📁 anos
+### anos
 
-Arquivos em formato CSV contendo os registros individuais de estudantes por ano analisado.
+Arquivos em formato CSV contendo os registros de estudantes por ano analisado.
 
 Cada arquivo inclui:
 
@@ -39,11 +39,11 @@ Exemplos:
 - estudantes_esdi_2019.csv  
 - estudantes_esdi_2024.csv  
 
-### 📁 resumo
+### resumo
 
 **resumo_bairros_por_ano.csv**
 
-Arquivo agregado contendo a contagem de estudantes por bairro em cada ano analisado e informações adicionais como cidade, latitude e longitude aproximada de cada local.
+Arquivo contendo a contagem de estudantes por bairro em cada ano analisado e informações adicionais como cidade, latitude e longitude aproximada de cada local e classificação (Centro, Zona Sul, Zona Norte, Zona Oeste, RMRJ ou Outras cidades).
 
 Este arquivo corresponde à base utilizada para análises comparativas e visualizações do trabalho.
 
@@ -51,12 +51,12 @@ Este arquivo corresponde à base utilizada para análises comparativas e visuali
 
 Os dados foram obtidos a partir de duas fontes principais:
 
-- consulta manual a arquivos físicos institucionais  
-- bases digitais contendo registros de CEP  
+- consulta manual a arquivos físicos da ESDI/UERJ  
+- base digital contendo registros de CEP de ingressantes disponível no Estudo de Conjuntura do NIESC/DataUERJ. 
 
 Considerando o caráter manual de parte da coleta realizada em arquivos físicos, podem existir inconsistências pontuais de catalogação, sem impacto significativo nas análises apresentadas na pesquisa.
 
-## ⚠️ Observações
+## Observações
 
 - Os dados não permitem identificação individual dos estudantes.  
 - As informações disponibilizadas destinam-se exclusivamente a **fins acadêmicos**.  
