@@ -1,4 +1,4 @@
-# Dados da origem geográfica dos estudantes da ESDI/UERJ — TCC
+# Dados da origem geográfica dos estudantes da ESDI/UERJ [TCC]
 
 Este repositório reúne as planilhas utilizadas na coleta, organização e análise dos dados do Trabalho de Conclusão de Curso apresentado ao curso de Design da Universidade do Estado do Rio de Janeiro (UERJ), intitulado:
 
@@ -6,7 +6,7 @@ Este repositório reúne as planilhas utilizadas na coleta, organização e aná
 
 De autoria de **Carolina Guimarães**, sob orientação da **Prof. Barbara Castro**.
 
-## Conteúdo
+## conteúdo
 
 A pasta `/dados` contém três conjuntos de arquivos:
 
@@ -47,7 +47,7 @@ Arquivo contendo a contagem de estudantes por bairro em cada ano analisado e inf
 
 Este arquivo corresponde à base utilizada para análises comparativas e visualizações do trabalho.
 
-## Metodologia
+## metodologia
 
 Os dados foram obtidos a partir de duas fontes principais:
 
@@ -56,11 +56,11 @@ Os dados foram obtidos a partir de duas fontes principais:
 
 Considerando o caráter manual de parte da coleta realizada em arquivos físicos, podem existir inconsistências pontuais de catalogação, sem impacto significativo nas análises apresentadas na pesquisa.
 
-## Observações
+## observações
 
 - Os dados não permitem identificação individual dos estudantes.  
 - As informações disponibilizadas destinam-se exclusivamente a **fins acadêmicos**.  
 
-## Contato
+## contato
 
 Para dúvidas sobre o dataset ou a pesquisa, entre em contato com a autora do trabalho.
