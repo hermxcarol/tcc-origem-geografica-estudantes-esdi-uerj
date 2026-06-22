@@ -14,7 +14,7 @@ A pasta `/dados` contém três conjuntos de arquivos:
 
 **esdi_origem_estudantes_master.ods**
 
-Arquivo completo em formato Excel contendo todas as abas originais utilizadas na organização dos dados.
+Arquivo completo em formato OpenDocument contendo todas as abas originais utilizadas na organização dos dados.
 
 ### anos
 
