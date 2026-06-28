@@ -4,7 +4,6 @@ Este repositório reúne as planilhas utilizadas na coleta, organização e aná
 
 **“Trajetos: humanidades digitais e visualização de dados sobre o impacto do deslocamento na experiência universitária de alunos da ESDI/UERJ”**
 
-De autoria de **Carolina Guimarães**, sob orientação da **Prof. Barbara Castro**.
 
 ## conteúdo
 
