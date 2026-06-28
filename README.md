@@ -73,4 +73,4 @@ Considerando o caráter manual de parte da coleta realizada em arquivos físicos
 
 ## contato
 
-Para dúvidas sobre o dataset ou a pesquisa, entre em contato com a autora do trabalho.
+Para dúvidas sobre o dataset ou sobre a pesquisa, entre em contato com a pessoa autora do trabalho.
