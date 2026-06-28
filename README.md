@@ -1,9 +1,6 @@
 # Dados da origem geográfica dos estudantes da ESDI/UERJ [TCC]
 
-Este repositório reúne as planilhas utilizadas na coleta, organização e análise dos dados do Trabalho de Conclusão de Curso apresentado ao curso de Design da Universidade do Estado do Rio de Janeiro (UERJ), intitulado:
-
-**“Trajetos: humanidades digitais e visualização de dados sobre o impacto do deslocamento na experiência universitária de alunos da ESDI/UERJ”**
-
+Este repositório reúne as planilhas utilizadas na coleta, organização e análise dos dados do Trabalho de Conclusão de Curso apresentado ao curso de Design da Universidade do Estado do Rio de Janeiro (UERJ)
 
 ## conteúdo
 
@@ -70,7 +67,3 @@ Considerando o caráter manual de parte da coleta realizada em arquivos físicos
 
 - Os dados não permitem identificação individual dos estudantes.  
 - As informações disponibilizadas destinam-se exclusivamente a **fins acadêmicos**.  
-
-## contato
-
-Para dúvidas sobre o dataset ou sobre a pesquisa, entre em contato com a pessoa autora do trabalho.
