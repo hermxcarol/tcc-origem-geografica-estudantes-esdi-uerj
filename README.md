@@ -1,6 +1,6 @@
-# Dados da origem geográfica dos estudantes da ESDI/UERJ [TCC]
+# Dados da origem geográfica dos estudantes da ESDI/UERJ
 
-Este repositório reúne as planilhas utilizadas na coleta, organização e análise dos dados do Trabalho de Conclusão de Curso apresentado ao curso de Design da Universidade do Estado do Rio de Janeiro (UERJ)
+Este repositório reúne as planilhas utilizadas na coleta, organização e análise dos dados sobre a origem geográfica dos estudantes do curso de graduação em Design da Escola Superior de Desenho Industrial (ESDI/UERJ)
 
 ## conteúdo
 
